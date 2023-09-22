@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "455818284149",
+    "project_id": "prueba-ancient",
+    "storage_bucket": "prueba-ancient.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455818284149:android:be8c66be7f0a693441fc3c",
+        "android_client_info": {
+          "package_name": "com.example.prueba_ancient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4VWC_9on5RXFmbfB9YhCT6lhxa4fEWBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

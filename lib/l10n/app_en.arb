@@ -1,0 +1,22 @@
+{
+    "title": "Ancient Demo",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "error": "Error",
+    "loading": "Loading",
+    "loginTitle": "Login Now",
+    "loginText": "Please enter the details below to continue.",
+    "emailField": "Email",
+    "passwordField": "Password",
+    "loginButton": "Login",
+    "loginRegisterText": "Don't have an account?",
+    "loginRegisterButton": "Register",
+    "emailHintField": "Enter your email",
+    "passwordHintField": "Enter your password",
+    "registerTitle": "Register Now",
+    "registerText": "Please enter the details below to continue.",
+    "registerButton": "Register",
+    "products": "Products",
+    "emailInvalidField": "Please enter a valid email address.",
+    "passwordInvalidField": "Password must be at least 5 characters."
+}

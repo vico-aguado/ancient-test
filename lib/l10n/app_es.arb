@@ -1,0 +1,22 @@
+{
+    "title": "Ancient Demo",
+    "ok": "Aceptar",
+    "cancel": "Cancelar",
+    "error": "Error",
+    "loading": "Cargando",
+    "loginTitle": "Iniciar sesión",
+    "loginText": "Por favor ingresa tus datos para iniciar sesión.",
+    "emailField": "Correo electrónico",
+    "passwordField": "Contraseña",
+    "loginButton": "Entrar",
+    "loginRegisterText": "¿No tienes una cuenta?",
+    "loginRegisterButton": "Registrarse",
+    "emailHintField": "Ingresa tu correo electrónico",
+    "passwordHintField": "Ingresa tu contraseña",
+    "registerTitle": "Registro",
+    "registerText": "Por favor ingresa tus datos para registrarte.",
+    "registerButton": "Registrarse",
+    "products": "Productos",
+    "emailInvalidField": "Por favor, ingresa una dirección de correo electrónico válida.",
+    "passwordInvalidField": "La contraseña debe tener al menos 5 caracteres."
+}
