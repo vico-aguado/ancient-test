@@ -3,8 +3,8 @@
 
 Este proyecto está realizado con una mezcla de Clean Architecture y BLoC
 
-<img src="_screenshots/arq1.png"  width="174" height="486">
-<img src="_screenshots/arq2.png"  width="174" height="486">
+<img src="_screenshots/arq1.png"  width="137" height="486">
+<img src="_screenshots/arq2.png"  width="137" height="319">
 
 |Directorio|Descripción|
 |----------|-----------|
@@ -35,6 +35,16 @@ Este proyecto está realizado con una mezcla de Clean Architecture y BLoC
 
 
 \* NOTA: Por falta de tiempo sólo se cubrieron algunos BLoC's dejando pendiente algunos otros test
+
+----
+
+## Pantallas de muestra
+
+|<img src="_screenshots/splash.png" alt="splash" width="200"/>|
+<img src="_screenshots/login.png" alt="login" width="200"/>|
+<img src="_screenshots/register.png" alt="register" width="200"/>|
+<img src="_screenshots/products_dark.png" alt="products_dark" width="200"/>|
+<img src="_screenshots/products_light.png" alt="products_light" width="200"/>|
 
 ----
 
